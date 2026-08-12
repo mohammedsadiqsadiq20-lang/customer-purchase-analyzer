@@ -1,0 +1,36 @@
+customer_name,product,category,quantity,price,purchase_date
+Rahul Sharma,Laptop,Electronics,1,75000,2026-07-01
+Asha Patel,Wireless Headphones,Electronics,2,3500,2026-07-02
+Vikram Singh,Running Shoes,Sports,1,4200,2026-07-04
+Neha Verma,T-Shirt,Fashion,3,900,2026-07-05
+Arjun Kumar,Coffee Maker,Home & Kitchen,1,6800,2026-07-07
+Meera Rao,Smartphone,Electronics,1,32000,2026-07-10
+Ravi Kumar,Backpack,Fashion,2,1600,2026-07-11
+Priya Nair,Yoga Mat,Sports,2,1200,2026-07-13
+Kiran Shetty,Desk Lamp,Home & Kitchen,2,1800,2026-07-15
+Anil Joshi,Watch,Accessories,1,5600,2026-07-18
+Sneha Reddy,Tablet,Electronics,1,28500,2026-07-20
+Mohammed Irfan,Formal Shirt,Fashion,2,1800,2026-07-21
+Pooja Desai,Bluetooth Speaker,Electronics,1,4500,2026-07-23
+Suresh Bhat,Office Chair,Home & Kitchen,1,9200,2026-07-24
+Divya Rao,Sports Bag,Sports,2,2100,2026-07-25
+Naveen Kumar,Smart Watch,Accessories,1,7800,2026-07-26
+Fatima Khan,Jeans,Fashion,2,2200,2026-07-27
+Manoj Patil,Microwave Oven,Home & Kitchen,1,12500,2026-07-28
+Ananya Gupta,Keyboard,Electronics,2,2400,2026-07-29
+Ramesh Gowda,Cricket Bat,Sports,1,5500,2026-07-30
+Kavya Rao,Perfume,Beauty,2,2100,2026-07-31
+Imran Ali,Face Wash,Beauty,3,450,2026-08-01
+Swathi Hegde,Saree,Fashion,1,4800,2026-08-02
+Ajay Kumar,Power Bank,Electronics,2,1400,2026-08-03
+Shreya Iyer,Books,Books,4,650,2026-08-04
+Deepak Rao,Bluetooth Earbuds,Electronics,1,2900,2026-08-05
+Nisha Malik,Handbag,Fashion,1,3600,2026-08-05
+Harish Nayak,Dumbbells,Sports,2,3200,2026-08-06
+Zoya Ahmed,Skincare Kit,Beauty,1,2750,2026-08-06
+Vivek Joshi,Monitor,Electronics,1,18500,2026-08-07
+Lakshmi Devi,Cookware Set,Home & Kitchen,1,5900,2026-08-07
+Rohit Mehta,Novel Collection,Books,3,1200,2026-08-08
+Sana Khan,Casual Shoes,Fashion,1,2800,2026-08-08
+Girish Rao,Football,Sports,2,1800,2026-08-08
+Aditi Shah,Smartphone Case,Accessories,2,850,2026-08-09

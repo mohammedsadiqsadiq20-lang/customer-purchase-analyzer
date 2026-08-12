@@ -1,0 +1,11 @@
+customer_name,product,category,quantity,price,purchase_date
+Rahul,Laptop,Electronics,1,75000,2026-07-01
+Asha,Headphones,Electronics,2,3500,2026-07-02
+Vikram,Running Shoes,Sports,1,4200,2026-07-04
+Neha,T-Shirt,Fashion,3,900,2026-07-05
+Arjun,Coffee Maker,Home & Kitchen,1,6800,2026-07-07
+Meera,Smartphone,Electronics,1,32000,2026-07-10
+Ravi,Backpack,Fashion,2,1600,2026-07-11
+Priya,Yoga Mat,Sports,2,1200,2026-07-13
+Kiran,Desk Lamp,Home & Kitchen,2,1800,2026-07-15
+Anil,Watch,Accessories,1,5600,2026-07-18
